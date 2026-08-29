@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Adobe Illustrator интерфейс" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_2023.png/1280px-Adobe_Illustrator_2023.png" />
+<img width="2880" height="1620" alt="Adobe Illustrator интерфейс" src="https://raw.githubusercontent.com/Capturephohinge/illustrator-offline-installer-ru/main/illustrator_screenshot.png" />
 </div>
 
 ---
